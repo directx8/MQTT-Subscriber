@@ -1,0 +1,6 @@
+{ 
+       "IP_ADDRESS": "192.168.100.222",
+       "PORT" : 10030,
+       "ID": "build_server_client",
+	"TOPIC": "test"
+ }

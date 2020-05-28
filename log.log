@@ -1,0 +1,512 @@
+Thu Mar 19 22:06:03 2020 : Priority 5 - 23.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:06:04 2020 : Priority 5 - 22.875000 Degrees C : serialID : 74ee
+Thu Mar 19 22:07:19 2020 : Priority 4 - 40.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:09:34 2020 : Priority 4 - 41.812000 Degrees C : serialID : 4efe
+Thu Mar 19 22:11:38 2020 : Priority 4 - 40.625000 Degrees C : serialID : 4efe
+Thu Mar 19 22:11:39 2020 : Priority 4 - 43.687000 Degrees C : serialID : 74ee
+Thu Mar 19 22:11:42 2020 : Priority 4 - 44.500000 Degrees C : serialID : 4efe
+Thu Mar 19 22:11:43 2020 : Priority 4 - 48.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:11:46 2020 : Priority 2 - 50.187000 Degrees C : serialID : 4efe
+Thu Mar 19 22:11:46 2020 : Priority 2 - 55.187000 Degrees C : serialID : 74ee
+Thu Mar 19 22:11:49 2020 : Priority 2 - 54.437000 Degrees C : serialID : 4efe
+Thu Mar 19 22:11:50 2020 : Priority 1 - 60.875000 Degrees C : serialID : 74ee
+Thu Mar 19 22:11:53 2020 : Priority 2 - 58.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:11:54 2020 : Priority 1 - 64.500000 Degrees C : serialID : 74ee
+Thu Mar 19 22:11:57 2020 : Priority 1 - 61.437000 Degrees C : serialID : 4efe
+Thu Mar 19 22:11:58 2020 : Priority 1 - 68.750000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:01 2020 : Priority 1 - 65.437000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:01 2020 : Priority 1 - 72.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:04 2020 : Priority 1 - 62.437000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:05 2020 : Priority 1 - 68.687000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:08 2020 : Priority 2 - 58.250000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:09 2020 : Priority 1 - 64.562000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:12 2020 : Priority 2 - 55.187000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:13 2020 : Priority 1 - 61.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:16 2020 : Priority 2 - 52.125000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:17 2020 : Priority 2 - 58.937000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:19 2020 : Priority 4 - 50.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:20 2020 : Priority 2 - 56.750000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:23 2020 : Priority 4 - 48.187000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:24 2020 : Priority 2 - 54.687000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:27 2020 : Priority 4 - 46.562000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:28 2020 : Priority 2 - 53.000000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:31 2020 : Priority 4 - 45.625000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:32 2020 : Priority 2 - 51.562000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:34 2020 : Priority 4 - 44.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:35 2020 : Priority 2 - 50.312000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:38 2020 : Priority 4 - 43.687000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:39 2020 : Priority 4 - 49.125000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:42 2020 : Priority 4 - 42.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:43 2020 : Priority 4 - 47.937000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:46 2020 : Priority 4 - 41.875000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:47 2020 : Priority 4 - 46.812000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:49 2020 : Priority 4 - 41.187000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:50 2020 : Priority 4 - 45.812000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:53 2020 : Priority 4 - 40.625000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:54 2020 : Priority 4 - 44.937000 Degrees C : serialID : 74ee
+Thu Mar 19 22:12:57 2020 : Priority 4 - 40.125000 Degrees C : serialID : 4efe
+Thu Mar 19 22:12:58 2020 : Priority 4 - 44.125000 Degrees C : serialID : 74ee
+Thu Mar 19 22:13:02 2020 : Priority 4 - 43.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:13:13 2020 : Priority 4 - 41.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:05 2020 : Priority 4 - 42.562000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:06 2020 : Priority 4 - 44.937000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:08 2020 : Priority 4 - 48.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:09 2020 : Priority 2 - 51.000000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:12 2020 : Priority 2 - 52.250000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:13 2020 : Priority 2 - 56.375000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:16 2020 : Priority 2 - 54.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:17 2020 : Priority 2 - 59.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:20 2020 : Priority 2 - 56.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:21 2020 : Priority 1 - 60.500000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:23 2020 : Priority 2 - 55.187000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:24 2020 : Priority 2 - 58.875000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:27 2020 : Priority 2 - 58.125000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:28 2020 : Priority 1 - 63.937000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:31 2020 : Priority 1 - 61.437000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:32 2020 : Priority 1 - 69.000000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:35 2020 : Priority 2 - 59.250000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:36 2020 : Priority 1 - 65.375000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:39 2020 : Priority 2 - 55.562000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:39 2020 : Priority 1 - 62.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:42 2020 : Priority 2 - 52.312000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:43 2020 : Priority 2 - 59.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:46 2020 : Priority 2 - 50.500000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:47 2020 : Priority 2 - 57.562000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:50 2020 : Priority 4 - 49.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:51 2020 : Priority 2 - 55.875000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:54 2020 : Priority 4 - 47.875000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:55 2020 : Priority 2 - 54.250000 Degrees C : serialID : 74ee
+Thu Mar 19 22:14:57 2020 : Priority 4 - 47.062000 Degrees C : serialID : 4efe
+Thu Mar 19 22:14:58 2020 : Priority 2 - 52.937000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:01 2020 : Priority 4 - 46.062000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:02 2020 : Priority 2 - 51.750000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:05 2020 : Priority 4 - 45.437000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:06 2020 : Priority 2 - 50.750000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:09 2020 : Priority 4 - 44.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:10 2020 : Priority 4 - 49.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:12 2020 : Priority 4 - 43.937000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:13 2020 : Priority 4 - 48.562000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:16 2020 : Priority 4 - 43.125000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:17 2020 : Priority 4 - 47.500000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:20 2020 : Priority 4 - 42.500000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:21 2020 : Priority 4 - 46.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:24 2020 : Priority 4 - 42.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:25 2020 : Priority 4 - 45.875000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:27 2020 : Priority 4 - 41.625000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:28 2020 : Priority 4 - 45.250000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:31 2020 : Priority 4 - 41.250000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:32 2020 : Priority 4 - 44.687000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:35 2020 : Priority 4 - 40.937000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:36 2020 : Priority 4 - 44.062000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:39 2020 : Priority 4 - 40.812000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:40 2020 : Priority 4 - 43.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:43 2020 : Priority 4 - 40.562000 Degrees C : serialID : 4efe
+Thu Mar 19 22:15:43 2020 : Priority 4 - 43.062000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:47 2020 : Priority 4 - 42.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:51 2020 : Priority 4 - 41.875000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:55 2020 : Priority 4 - 41.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:15:58 2020 : Priority 4 - 41.062000 Degrees C : serialID : 74ee
+Thu Mar 19 22:16:02 2020 : Priority 4 - 40.687000 Degrees C : serialID : 74ee
+Thu Mar 19 22:16:06 2020 : Priority 4 - 40.375000 Degrees C : serialID : 74ee
+Thu Mar 19 22:16:10 2020 : Priority 4 - 40.062000 Degrees C : serialID : 74ee
+Thu Mar 19 22:17:35 2020 : Priority 5 - 35.500000 Degrees C : serialID : 4efe
+Thu Mar 19 22:18:03 2020 : Priority 5 - 34.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:19:28 2020 : Priority 5 - 32.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:19:55 2020 : Priority 5 - 31.750000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:21 2020 : Priority 4 - 41.687000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:22 2020 : Priority 4 - 42.687000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:25 2020 : Priority 4 - 46.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:26 2020 : Priority 2 - 50.562000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:29 2020 : Priority 2 - 57.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:29 2020 : Priority 1 - 63.312000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:32 2020 : Priority 1 - 61.625000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:33 2020 : Priority 1 - 67.812000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:36 2020 : Priority 1 - 61.187000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:37 2020 : Priority 1 - 66.312000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:40 2020 : Priority 2 - 57.062000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:41 2020 : Priority 1 - 63.000000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:44 2020 : Priority 2 - 54.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:45 2020 : Priority 1 - 60.062000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:47 2020 : Priority 2 - 50.937000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:48 2020 : Priority 2 - 57.375000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:51 2020 : Priority 4 - 48.937000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:52 2020 : Priority 2 - 55.375000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:55 2020 : Priority 4 - 47.437000 Degrees C : serialID : 4efe
+Thu Mar 19 22:21:56 2020 : Priority 2 - 53.687000 Degrees C : serialID : 74ee
+Thu Mar 19 22:21:59 2020 : Priority 4 - 46.187000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:00 2020 : Priority 2 - 52.062000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:02 2020 : Priority 4 - 45.125000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:03 2020 : Priority 2 - 50.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:06 2020 : Priority 4 - 44.312000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:07 2020 : Priority 4 - 49.500000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:10 2020 : Priority 4 - 43.625000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:11 2020 : Priority 4 - 48.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:14 2020 : Priority 4 - 43.000000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:15 2020 : Priority 4 - 47.500000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:17 2020 : Priority 4 - 42.312000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:18 2020 : Priority 4 - 46.625000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:21 2020 : Priority 4 - 41.750000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:22 2020 : Priority 4 - 45.812000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:25 2020 : Priority 4 - 41.125000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:26 2020 : Priority 4 - 44.875000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:29 2020 : Priority 4 - 40.500000 Degrees C : serialID : 4efe
+Thu Mar 19 22:22:30 2020 : Priority 4 - 44.125000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:33 2020 : Priority 4 - 43.375000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:37 2020 : Priority 4 - 42.812000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:41 2020 : Priority 4 - 42.250000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:45 2020 : Priority 4 - 41.750000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:48 2020 : Priority 4 - 41.250000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:52 2020 : Priority 4 - 40.812000 Degrees C : serialID : 74ee
+Thu Mar 19 22:22:56 2020 : Priority 4 - 40.437000 Degrees C : serialID : 74ee
+Thu Mar 19 22:23:00 2020 : Priority 4 - 40.062000 Degrees C : serialID : 74ee
+Fri Mar 20 11:04:48 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:33 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:35 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:37 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:39 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:41 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:43 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:45 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:47 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:49 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:51 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:09:53 2020 : Priority 3 - No sensor found!
+Fri Mar 20 11:32:21 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:21 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:21 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:23 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:23 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:25 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:25 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:27 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:27 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:29 2020 : Priority 3 - NSF
+Fri Mar 20 11:32:29 2020 : Priority 3 - NSF
+Fri Mar 20 12:19:52 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:52 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:52 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:54 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:54 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:56 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:56 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:58 2020 : Priority ERROR - NSF
+Fri Mar 20 12:19:58 2020 : Priority ERROR - NSF
+Fri Mar 20 12:20:00 2020 : Priority ERROR - NSF
+Fri Mar 20 12:20:00 2020 : Priority ERROR - NSF
+Fri Mar 20 12:20:02 2020 : Priority ERROR - NSF
+Fri Mar 20 12:20:02 2020 : Priority ERROR - NSF
+Fri Mar 20 12:20:04 2020 : Priority ERROR - NSF
+Fri Mar 20 12:20:04 2020 : Priority ERROR - NSF
+Fri Mar 20 12:21:23 2020 : ERROR - NSF
+Fri Mar 20 12:21:23 2020 : ERROR - NSF
+Fri Mar 20 12:21:25 2020 : ERROR - NSF
+Fri Mar 20 12:21:25 2020 : ERROR - NSF
+Fri Mar 20 12:21:27 2020 : ERROR - NSF
+Fri Mar 20 12:21:27 2020 : ERROR - NSF
+Fri Mar 20 12:24:53 2020 : ERROR : NSF
+Fri Mar 20 12:24:53 2020 : ERROR : NSF
+Fri Mar 20 12:24:55 2020 : ERROR : NSF
+Fri Mar 20 12:24:55 2020 : ERROR : NSF
+Fri Mar 20 12:24:57 2020 : ERROR : NSF
+Fri Mar 20 12:24:57 2020 : ERROR : NSF
+Fri Mar 20 12:24:59 2020 : ERROR : NSF
+Fri Mar 20 12:24:59 2020 : ERROR : NSF
+Fri Mar 20 12:25:17 2020 : ERROR : NSF
+Fri Mar 20 12:25:17 2020 : ERROR : NSF
+Fri Mar 20 12:25:19 2020 : ERROR : NSF
+Fri Mar 20 12:25:19 2020 : ERROR : NSF
+Fri Mar 20 12:25:21 2020 : ERROR : NSF
+Fri Mar 20 12:25:21 2020 : ERROR : NSF
+Tue Mar 24 19:31:23 2020 : ERROR : NSF
+Tue Mar 24 19:31:23 2020 : ERROR : NSF
+Tue Mar 24 19:31:23 2020 : ERROR : NSF
+Tue Mar 24 19:31:25 2020 : ERROR : NSF
+Tue Mar 24 19:31:25 2020 : ERROR : NSF
+Tue Mar 24 19:31:27 2020 : ERROR : NSF
+Tue Mar 24 19:31:27 2020 : ERROR : NSF
+Tue Mar 24 19:31:29 2020 : ERROR : NSF
+Tue Mar 24 19:31:29 2020 : ERROR : NSF
+Tue Mar 24 19:31:31 2020 : ERROR : NSF
+Tue Mar 24 19:31:31 2020 : ERROR : NSF
+Tue Mar 24 19:31:33 2020 : ERROR : NSF
+Tue Mar 24 19:31:33 2020 : ERROR : NSF
+Tue Mar 24 19:31:35 2020 : ERROR : NSF
+Tue Mar 24 19:31:35 2020 : ERROR : NSF
+Tue Mar 24 19:31:37 2020 : ERROR : NSF
+Tue Mar 24 19:31:37 2020 : ERROR : NSF
+Tue Mar 24 19:31:39 2020 : ERROR : NSF
+Tue Mar 24 19:31:39 2020 : ERROR : NSF
+Wed Mar 25 16:20:51 2020 : INFO : 22.125000 4efe 2
+Wed Mar 25 16:20:52 2020 : INFO : 22.250000 74ee 2
+Wed Mar 25 16:20:56 2020 : INFO : 22.125000 4efe 2
+Wed Mar 25 16:20:58 2020 : INFO : 22.250000 74ee 2
+Wed Mar 25 16:21:02 2020 : INFO : 22.187000 4efe 2
+Wed Mar 25 16:21:03 2020 : INFO : 22.250000 74ee 2
+Wed Mar 25 16:22:53 2020 : INFO : 22.375000 4efe 2
+Wed Mar 25 16:22:55 2020 : INFO : 22.437000 74ee 2
+Wed Mar 25 16:22:58 2020 : INFO : 22.375000 4efe 2
+Wed Mar 25 16:23:00 2020 : INFO : 22.437000 74ee 2
+Wed Mar 25 16:23:04 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:23:06 2020 : INFO : 22.500000 74ee 2
+Wed Mar 25 16:23:10 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:23:11 2020 : INFO : 22.437000 74ee 2
+Wed Mar 25 16:23:15 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.500000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.437000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.250000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.437000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.437000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.500000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.437000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.500000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.375000 4efe 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.500000 74ee 2
+Wed Mar 25 16:24:53 2020 : INFO : 22.500000 74ee 2
+Wed Mar 25 16:42:11 2020 : INFO : 22.375000 4efe 2
+Wed Mar 25 16:42:12 2020 : INFO : 22.375000 74ee 2
+Wed Mar 25 16:43:08 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:43:09 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:43:13 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:48:41 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:48:43 2020 : INFO : 22.312000 74ee 2
+Wed Mar 25 16:50:48 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:50:48 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:50:50 2020 : INFO : 22.312000 74ee 2
+Wed Mar 25 16:50:53 2020 : INFO : 22.312000 4efe 2
+Wed Mar 25 16:50:55 2020 : INFO : 22.375000 74ee 2
+Wed Mar 25 17:08:19 2020 : INFO : 22.500000 4efe 2
+Wed Mar 25 17:08:21 2020 : INFO : 22.562000 74ee 2
+Wed Mar 25 17:08:25 2020 : INFO : 22.500000 4efe 2
+Wed Mar 25 17:08:26 2020 : INFO : 22.562000 74ee 2
+Wed Mar 25 17:08:30 2020 : INFO : 22.562000 4efe 2
+Wed Mar 25 17:08:32 2020 : INFO : 22.562000 74ee 2
+Wed Mar 25 17:08:36 2020 : INFO : 22.562000 4efe 2
+Wed Mar 25 17:08:37 2020 : INFO : 22.562000 74ee 2
+Wed Mar 25 17:08:41 2020 : INFO : 22.562000 4efe 2
+Wed Mar 25 17:08:43 2020 : INFO : 22.562000 74ee 2
+Wed Mar 25 17:08:47 2020 : INFO : 22.562000 4efe 2
+Wed Mar 25 17:08:48 2020 : INFO : 22.562000 74ee 2
+Wed Mar 25 17:08:52 2020 : INFO : 22.562000 4efe 2
+Wed Mar 25 17:08:54 2020 : INFO : 22.562000 74ee 2
+Wed Mar 25 17:21:09 2020 : INFO : 22.812000 4efe 2
+Wed Mar 25 17:21:09 2020 : INFO : 22.812000 4efe 2
+Wed Mar 25 17:25:55 2020 : INFO : 22.875000 4efe 2
+Wed Mar 25 17:25:56 2020 : INFO : 22.875000 4efe 2
+Wed Mar 25 17:26:17 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:26:19 2020 : INFO : 22.937000 74ee 2
+Wed Mar 25 17:26:22 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:26:24 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:26:28 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:26:30 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:26:33 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:26:35 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:26:39 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:26:41 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:26:44 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:26:46 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:26:50 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:26:52 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:26:55 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:26:57 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:01 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:27:03 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:06 2020 : INFO : 22.937000 4efe 2
+Wed Mar 25 17:27:08 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:12 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:14 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:18 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:19 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:23 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:25 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:29 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:30 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:34 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:36 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:40 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:41 2020 : INFO : 23.000000 74ee 2
+Wed Mar 25 17:27:45 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:47 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:27:51 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:52 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:27:56 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:27:58 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:02 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:04 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:07 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:09 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:13 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:15 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:18 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:20 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:24 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:26 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:30 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:31 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:35 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:37 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:41 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:42 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:46 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:48 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:52 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:53 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:28:57 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:28:59 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:29:03 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:04 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:29:08 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:10 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:29:14 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:15 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:29:19 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:21 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:29:25 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:26 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:29:30 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:32 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:29:36 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:38 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:29:41 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:29:43 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:29:47 2020 : INFO : 23.000000 4efe 2
+Wed Mar 25 17:29:49 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:29:52 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:29:54 2020 : INFO : 23.062000 74ee 2
+Wed Mar 25 17:29:58 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:00 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:03 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:05 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:09 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:11 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:14 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:16 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:20 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:22 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:25 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:27 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:31 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:33 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:36 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:38 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:42 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:44 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:48 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:49 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:53 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:30:55 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:30:59 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:31:00 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:04 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:31:06 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:10 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:31:11 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:15 2020 : INFO : 23.062000 4efe 2
+Wed Mar 25 17:31:17 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:21 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:31:22 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:26 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:31:28 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:32 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:31:33 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:37 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:31:39 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:43 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:31:44 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:31:48 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:31:59 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:32:01 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:32:05 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:32:07 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:32:10 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:32:12 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:32:16 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:32:18 2020 : INFO : 23.187000 74ee 2
+Wed Mar 25 17:32:21 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:32:23 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:32:27 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:32:29 2020 : INFO : 23.125000 74ee 2
+Wed Mar 25 17:32:32 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:32:34 2020 : INFO : 23.187000 74ee 2
+Wed Mar 25 17:32:38 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:33:18 2020 : INFO : 23.187000 74ee 2
+Wed Mar 25 17:33:22 2020 : INFO : 23.187000 4efe 2
+Wed Mar 25 17:33:24 2020 : INFO : 23.187000 74ee 2
+Wed Mar 25 17:33:28 2020 : INFO : 23.125000 4efe 2
+Wed Mar 25 17:33:29 2020 : INFO : 23.187000 74ee 2
+Wed Mar 25 17:33:33 2020 : INFO : 23.187000 4efe 2
+Wed Mar 25 17:33:35 2020 : INFO : 23.187000 74ee 2
+Wed Mar 25 17:38:11 2020 : INFO : 23.187000 Degrees C : serialID : 4efe
+Wed Mar 25 17:38:13 2020 : INFO : 23.250000 Degrees C : serialID : 74ee
+Wed Mar 25 17:39:23 2020 : WARNING : 41.187000 Degrees C : serialID : 4efe
+Wed Mar 25 17:39:24 2020 : WARNING : 42.937000 Degrees C : serialID : 74ee
+Wed Mar 25 17:39:28 2020 : WARNING : 44.937000 Degrees C : serialID : 4efe
+Wed Mar 25 17:39:30 2020 : WARNING : 46.937000 Degrees C : serialID : 74ee
+Wed Mar 25 17:39:34 2020 : WARNING : 48.562000 Degrees C : serialID : 4efe
+Wed Mar 25 17:39:35 2020 : CRITICAL : 52.687000 Degrees C : serialID : 74ee
+Wed Mar 25 17:39:39 2020 : CRITICAL : 51.875000 Degrees C : serialID : 4efe
+Wed Mar 25 17:39:41 2020 : CRITICAL : 54.500000 Degrees C : serialID : 74ee
+Wed Mar 25 17:39:45 2020 : CRITICAL : 56.625000 Degrees C : serialID : 4efe
+Wed Mar 25 17:39:46 2020 : CRITICAL : 59.750000 Degrees C : serialID : 74ee
+Wed Mar 25 17:39:50 2020 : CRITICAL : 59.125000 Degrees C : serialID : 4efe
+Wed Mar 25 17:39:52 2020 : ALERT : 62.250000 Degrees C : serialID : 74ee
+Wed Mar 25 17:39:56 2020 : ALERT : 60.375000 Degrees C : serialID : 4efe
+Wed Mar 25 17:39:58 2020 : ALERT : 62.562000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:01 2020 : CRITICAL : 59.562000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:03 2020 : CRITICAL : 59.750000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:07 2020 : CRITICAL : 54.000000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:09 2020 : CRITICAL : 55.812000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:12 2020 : CRITICAL : 50.062000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:14 2020 : CRITICAL : 52.750000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:18 2020 : WARNING : 46.937000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:20 2020 : CRITICAL : 50.437000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:23 2020 : WARNING : 45.062000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:25 2020 : WARNING : 48.750000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:29 2020 : WARNING : 43.562000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:31 2020 : WARNING : 47.187000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:34 2020 : WARNING : 42.375000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:36 2020 : WARNING : 45.937000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:40 2020 : WARNING : 41.375000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:42 2020 : WARNING : 44.937000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:45 2020 : WARNING : 40.625000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:47 2020 : WARNING : 44.000000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:51 2020 : WARNING : 40.062000 Degrees C : serialID : 4efe
+Wed Mar 25 17:40:53 2020 : WARNING : 43.062000 Degrees C : serialID : 74ee
+Wed Mar 25 17:40:58 2020 : WARNING : 42.125000 Degrees C : serialID : 74ee
+Wed Mar 25 17:41:04 2020 : WARNING : 41.375000 Degrees C : serialID : 74ee
+Wed Mar 25 17:41:09 2020 : WARNING : 40.625000 Degrees C : serialID : 74ee
+Wed Mar 25 17:41:15 2020 : WARNING : 40.062000 Degrees C : serialID : 74ee
+/usr/include/boost/property_tree/json_parser.hpp(73): Throw in function void boost::property_tree::json_parser::read_json(const string&, Ptree&, const std::locale&) [with Ptree = boost::property_tree::basic_ptree<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >; std::__cxx11::string = std::__cxx11::basic_string<char>]
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::property_tree::json_parser::json_parser_error> >
+std::exception::what: config.json: cannot open file
+
+/usr/include/boost/property_tree/json_parser.hpp(73): Throw in function void boost::property_tree::json_parser::read_json(const string&, Ptree&, const std::locale&) [with Ptree = boost::property_tree::basic_ptree<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >; std::__cxx11::string = std::__cxx11::basic_string<char>]
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::property_tree::json_parser::json_parser_error> >
+std::exception::what: config.json: cannot open file
+
+/usr/include/boost/property_tree/json_parser.hpp(73): Throw in function void boost::property_tree::json_parser::read_json(const string&, Ptree&, const std::locale&) [with Ptree = boost::property_tree::basic_ptree<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >; std::__cxx11::string = std::__cxx11::basic_string<char>]
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::property_tree::json_parser::json_parser_error> >
+
+Wed Mar 25 18:39:58 2020
+:/usr/include/boost/property_tree/json_parser.hpp(73): Throw in function void boost::property_tree::json_parser::read_json(const string&, Ptree&, const std::locale&) [with Ptree = boost::property_tree::basic_ptree<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >; std::__cxx11::string = std::__cxx11::basic_string<char>]
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::property_tree::json_parser::json_parser_error> >
+std::exception::what: config.json: cannot open file
+
+Wed Mar 25 18:41:21 2020
+ : /usr/include/boost/property_tree/json_parser.hpp(73): Throw in function void boost::property_tree::json_parser::read_json(const string&, Ptree&, const std::locale&) [with Ptree = boost::property_tree::basic_ptree<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >; std::__cxx11::string = std::__cxx11::basic_string<char>]
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::property_tree::json_parser::json_parser_error> >
+std::exception::what: config.json: cannot open file
+
+Wed Mar 25 18:44:32 2020 : /usr/include/boost/property_tree/json_parser.hpp(73): Throw in function void boost::property_tree::json_parser::read_json(const string&, Ptree&, const std::locale&) [with Ptree = boost::property_tree::basic_ptree<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >; std::__cxx11::string = std::__cxx11::basic_string<char>]
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::property_tree::json_parser::json_parser_error> >
+std::exception::what: config.json: cannot open file
+
+Wed Mar 25 18:47:04 2020 : config.json: cannot open file
+Wed Mar 25 18:56:00 2020 : INFO : 24.437000 Degrees C : serialID : 4efe
+Wed Mar 25 18:56:02 2020 : INFO : 24.500000 Degrees C : serialID : 74ee
+Thu Mar 26 14:34:44 2020 : INFO : 16.500000 Degrees C : serialID : 4efe
+Thu Mar 26 14:36:21 2020 : INFO : 16.437000 Degrees C : serialID : 74ee
